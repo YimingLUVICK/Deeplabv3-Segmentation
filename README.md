@@ -24,13 +24,13 @@ The core packages used includes torch, torchdml, Image.
 ```bash
 python train.py
 ```
-loss, acc, miou in each epoch will be printed and recorded into training_log.csv
+loss, acc, miou in each epoch will be printed and recorded into `training_log.csv`
 
 ### 4. Predict
 ```bash
 python predict.py image_path
 ```
-The predicted label .png will be saved as result*.png
+The predicted label .png will be saved as `result*.png`
 
 ## Result
 ### IoU of test dataset
