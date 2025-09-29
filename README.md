@@ -37,9 +37,9 @@ The predicted label .png will be saved as result*.png
 ![iou bar](./iou_bar.png)
 
 ### Training logs
-(./loss_curve.png)
-(./acc_curve.png)
-(./miou_curve.png)
+![loss curve](./loss_curve.png)
+![acc curve](./acc_curve.png)
+![miou curve](./miou_curve.png)
 
 
 ## What is achieved
