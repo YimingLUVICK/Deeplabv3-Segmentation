@@ -37,12 +37,18 @@ The predicted label .png will be saved as result*.png
 ![iou bar](./iou_bar.png)
 
 ### Training logs
-<p align="center">
+<p>
   <img src="./loss_curve.png" width="30%" />
   <img src="./acc_curve.png" width="30%" />
   <img src="./miou_curve.png" width="30%" />
 </p>
 
+### Predict result
+<p>
+  <img src="./img1624325291-972695058.png" width="30%" />
+  <img src="./lab1624325291-972695058.png" width="30%" />
+  <img src="./result1624325291-972695058.png" width="30%" />
+</p>
 
 ## What is achieved
 ### 1. Using AMD GPU to finish a Segmentation task.
