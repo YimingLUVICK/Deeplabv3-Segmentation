@@ -1,0 +1,6 @@
+{
+  "(np.uint8(0), np.uint8(0), np.uint8(128))": 0,
+  "(np.uint8(60), np.uint8(180), np.uint8(75))": 1,
+  "(np.uint8(70), np.uint8(240), np.uint8(240))": 2,
+  "(np.uint8(128), np.uint8(128), np.uint8(128))": 3
+}
