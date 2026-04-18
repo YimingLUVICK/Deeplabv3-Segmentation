@@ -32,9 +32,7 @@ python predict.py image_path
 ```
 The predicted label .png will be saved as `result*.png`
 
-## Result
-### IoU of test dataset
-![iou bar](./iou_bar.png)
+
 
 
 ## What is achieved
